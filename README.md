@@ -1,2 +1,0 @@
-# DUOAPI
-DUO API
